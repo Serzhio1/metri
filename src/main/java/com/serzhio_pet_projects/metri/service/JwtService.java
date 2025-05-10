@@ -1,6 +1,5 @@
 package com.serzhio_pet_projects.metri.service;
 
-
 import com.serzhio_pet_projects.metri.model.UserModel;
 import io.jsonwebtoken.Jwts;
 import io.jsonwebtoken.security.Keys;
